@@ -1,2 +1,3 @@
 # Web-Portfolio-WIP-
-Working on a web portfolio website
+Experiment with HTML and CSS on web development designs.
+Website(WIP)
